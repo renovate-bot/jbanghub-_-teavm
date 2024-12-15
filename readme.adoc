@@ -1,0 +1,13 @@
+# TeaVM JBang Catalog 
+
+This is a catalog of JBang scripts for https://teavm.org/.
+
+Curated and created by the community.
+
+Example usage:
+
+`jbang teavm-cli`
+
+`jbang teavm-build`
+
+`jbang teavm-devserver`
