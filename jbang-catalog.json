@@ -2,16 +2,16 @@
   "catalogs": {},
   "aliases": {
     "teavm-cli": {
-      "script-ref": "org.teavm:teavm-cli:0.11.0",
+      "script-ref": "org.teavm:teavm-cli:0.12.3",
       "main": "org.teavm.cli.TeaVMRunner"
     },
     "teavm-mcbuild": {
-      "script-ref": "org.teavm:teavm-cli:0.11.0",
+      "script-ref": "org.teavm:teavm-cli:0.12.3",
       "main": "org.teavm.cli.TeaVMCBuilderRunner",
       "java-agents": []
     },
     "teavm-devserver": {
-      "script-ref": "org.teavm:teavm-cli:0.11.0",
+      "script-ref": "org.teavm:teavm-cli:0.12.3",
       "main": "org.teavm.cli.devserver.TeaVMDevServerRunner",
       "java-agents": []
     }
